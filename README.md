@@ -1,11 +1,24 @@
-Algoritmos de Busca 
+# Algoritmos de Busca
 
-Número da Lista: 01
-Conteúdo da Disciplina: FGA0030 - EDA II
+**Número da Lista:** 01  
+**Disciplina:** FGA0030 - Estruturas de Dados e Algoritmos II  
 
-Alunos
-<div align = "center"> <table> <tr> <td align="center"><a href="https://github.com/thalesgvl"><img style="border-radius: 50%;" src="https://github.com/thalesgvl.png" width="190;" alt=""/><br /><sub><b>Thales Germano</b></sub></a></td> <td align="center"><a href="https://github.com/marcomarquesdc"><img style="border-radius: 50%;" src="https://github.com/marcomarquesdc.png" width="190;" alt=""/><br /><sub><b>Marco Marques</b></sub></a></td> </tr> </table>
-Matrícula	Aluno
-20/2017147	Thales Germano
-21/1062197	Marco Marques
+## Integrantes
+
+<div align="center">
+  <a href="https://github.com/thalesgvl">
+    <img src="https://github.com/thalesgvl.png" width="190px;" style="border-radius:50%;" alt="Thales Germano"/>
+  </a>
+  <a href="https://github.com/marcomarquesdc">
+    <img src="https://github.com/marcomarquesdc.png" width="190px;" style="border-radius:50%;" alt="Marco Marques"/>
+  </a>
+</div>
+
+<div align="center">
+
+| Matrícula   | Aluno           |
+|------------|-----------------| 
+| 20/2017147 | Thales Germano  |
+| 21/1062197 | Marco Marques   |
+
 </div>
