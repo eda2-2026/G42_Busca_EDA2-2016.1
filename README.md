@@ -2,6 +2,7 @@
 
 **Número da Lista:** 01  
 **Disciplina:** FGA0030 - Estruturas de Dados e Algoritmos II  
+---
 
 ## Integrantes
 
